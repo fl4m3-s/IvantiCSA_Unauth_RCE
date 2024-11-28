@@ -16,8 +16,8 @@ This Proof of Concept is based on chaining a path traversal vulnerability to acc
 ## Usage
 
 ```
-% python3 CVE-2024-8190.py -h
-usage: CVE-2024-8190.py [-h] -u URL [-c COMMAND] [-e]
+% python3 IvantiCSA_Unauth_RCE.py -h
+usage: IvantiCSA_Unauth_RCE.py [-h] -u URL [-c COMMAND] [-e]
 
 options:
   -h, --help            show this help message and exit
